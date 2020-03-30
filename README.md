@@ -23,8 +23,8 @@ Things you may want to cover:
 
 * ...
 
-# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
-DMM WEBCAMPの学習コンテンツ【アプリケーションを完成させよう】の研修課題（CARAVAN）です。
+## DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
+DMM WEBCAMPの学習コンテンツ【アプリケーションを完成させよう】の研修課題（CARAVAN）です。  
 学習記録も残していきます。
 
 ## 学習記録
